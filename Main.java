@@ -1,3 +1,4 @@
+//Furkan Çapkın, Bankacılık Uygulaması
 import java.util.*;
 
 
